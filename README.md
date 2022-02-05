@@ -15,19 +15,18 @@ class AboutMe(APIView):
                                     "architectures": ["REST", "PWA", "SPA"]
                                 },
 
-                        "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v"],
+                        "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v", "Mentor"],
 
                         "askMe": ['Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
 
-                        "contacts": { 'Telegram': '@imsadi',
-                                      'Linkedin': '@henri-dev',
+                        "contacts": { 'Telegram': 'imsadi',
+                                      'Linkedin': 'henri-dev',
                                       'Discord': 'ShadowCompiler#2596',
                                       'Mail':'pariso03henri@gmail.com',
-
-
-                        }
+                        },
 
                         }
+        return Response(shadowcompiler)
 
 ```                    
 
