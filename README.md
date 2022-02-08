@@ -13,7 +13,7 @@ class AboutMe(APIView):
         "stack": { "languages": ['Python', 'Php', 'JS', 'Kotlin'],
                    "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'Bulma', 'Beufy'],
                    "databases": ['Mysql', 'Postgresql', 'Sqlite'],
-                   "architectures": ["REST", "PWA", "SPA"]},        
+                   "architectures": ["MVC", "MVT", "REST", "PWA", "SPA"]},        
         "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v", "Mentor"],
         "askMe": ['Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
         "contacts": { 'Telegram': 'imsadi',
