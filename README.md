@@ -20,7 +20,7 @@ class AboutMe(APIView):
                        'Linkedin': 'henri-dev',
                        'Discord': 'ShadowCompiler#2596',
                        'Mail':'pariso03henri@gmail.com',}}
-        return Response(shadowcompiler, status.HTTP_200_OK)
+        return Response(shadowcompiler, status=status.HTTP_200_OK)
 
 ```                    
 
