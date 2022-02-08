@@ -2,31 +2,25 @@
 ```python
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from rest_framework import status
 
 class AboutMe(APIView):
 
     def get(self, request):
 
-        shadowcompiler={"fullName": "Salaou-Deen Henri-Joël Abiodoun PARAISO",
-
-                        "stack": { "languages": ['Python', 'Php', 'JS', 'Kotlin'],
-                                    "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'Bulma', 'Beufy'],
-                                    "databases": ['Mysql', 'Postgresql', 'Sqlite'],
-                                    "architectures": ["REST", "PWA", "SPA"]
-                                },
-
-                        "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v", "Mentor"],
-
-                        "askMe": ['Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
-
-                        "contacts": { 'Telegram': 'imsadi',
-                                      'Linkedin': 'henri-dev',
-                                      'Discord': 'ShadowCompiler#2596',
-                                      'Mail':'pariso03henri@gmail.com',
-                        },
-
-                        }
-        return Response(shadowcompiler)
+        shadowcompiler= {
+        "fullName": "Salaou-Deen Henri-Joël Abiodoun PARAISO",
+        "stack": { "languages": ['Python', 'Php', 'JS', 'Kotlin'],
+                   "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'Bulma', 'Beufy'],
+                   "databases": ['Mysql', 'Postgresql', 'Sqlite'],
+                   "architectures": ["REST", "PWA", "SPA"]},        
+        "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v", "Mentor"],
+        "askMe": ['Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
+        "contacts": { 'Telegram': 'imsadi',
+                       'Linkedin': 'henri-dev',
+                       'Discord': 'ShadowCompiler#2596',
+                       'Mail':'pariso03henri@gmail.com',}}
+        return Response(shadowcompiler, status.HTTP_200_OK)
 
 ```                    
 
