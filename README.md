@@ -33,7 +33,7 @@ class AboutMe(APIView):
 
 > 🏆 301 Contributions in the Year 2022
  > 
-> 📦 36.2 kB Used in GitHub's Storage 
+> 📦 57.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -103,5 +103,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/04/2022 18:55:46 UTC
+ Last Updated on 29/04/2022 18:53:38 UTC
 <!--END_SECTION:waka-->
