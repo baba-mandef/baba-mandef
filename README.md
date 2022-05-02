@@ -70,19 +70,16 @@ Sunday       69 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Vue.js                   15 mins             ███████████████░░░░░░░░░░   61.31% 
-Python                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.63% 
-JavaScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-schoolman-front          20 mins             ███████████████████░░░░░░   78.37% 
-schoolman                5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.63%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,5 +100,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 18:53:38 UTC
+ Last Updated on 02/05/2022 18:55:35 UTC
 <!--END_SECTION:waka-->
