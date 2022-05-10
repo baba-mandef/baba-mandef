@@ -102,5 +102,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/05/2022 18:55:20 UTC
+ Last Updated on 10/05/2022 18:56:44 UTC
 <!--END_SECTION:waka-->
