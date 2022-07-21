@@ -110,5 +110,5 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2022 18:52:56 UTC
+ Last Updated on 21/07/2022 18:58:41 UTC
 <!--END_SECTION:waka-->
