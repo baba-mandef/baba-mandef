@@ -25,7 +25,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,6 +33,8 @@ class AboutMe(APIView):
 
 **🐱 My GitHub Data** 
 
+> 🏆 321 Contributions in the Year 2022
+ > 
 > 📦 36.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -105,5 +107,5 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 18:53:43 UTC
+ Last Updated on 27/08/2022 18:51:29 UTC
 <!--END_SECTION:waka-->
