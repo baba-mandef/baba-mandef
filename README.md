@@ -25,7 +25,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,5 +109,5 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/10/2022 19:00:55 UTC
+ Last Updated on 23/10/2022 18:58:57 UTC
 <!--END_SECTION:waka-->
