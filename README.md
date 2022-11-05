@@ -35,7 +35,7 @@ class AboutMe(APIView):
 
 > 🏆 350 Contributions in the Year 2022
  > 
-> 📦 54.3 kB Used in GitHub's Storage 
+> 📦 54.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -107,5 +107,5 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 18:54:38 UTC
+ Last Updated on 05/11/2022 18:51:02 UTC
 <!--END_SECTION:waka-->
