@@ -25,9 +25,9 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77%20Thousand%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@ class AboutMe(APIView):
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 54.6 kB Used in GitHub's Storage 
+> 📦 54.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -72,17 +72,16 @@ Sunday       74 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 40 mins       ████████████████████████░   98.25% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
+Vue.js                   51 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  51 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-lemocontrol              2 hrs 43 mins       █████████████████████████   100.0%
+lemocontrol              51 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████████████   100.0%
+Linux                    51 mins             █████████████████████████   100.0%
 
 ```
 
@@ -103,5 +102,5 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shadowcompiler/shadowcompiler/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 01:30:57 UTC
+ Last Updated on 14/01/2023 01:25:20 UTC
 <!--END_SECTION:waka-->
