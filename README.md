@@ -8,10 +8,10 @@ class AboutMe(APIView):
 
     def get(self, request):
 
-        shadowcompiler= {
+        ptahemdjehuty = {
         "fullName": "Salaou-Deen Henri-Joël Abiodoun PARAISO",
         "stack": { "languages": ['Python', 'Php', 'JS', 'Kotlin'],
-                   "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'Bulma', 'Beufy'],
+                   "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'React'],
                    "databases": ['Mysql', 'Postgresql', 'Sqlite'],
                    "architectures": ["MVC", "MVT", "REST", "PWA", "SPA"]},        
         "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v", "Mentor"],
@@ -20,7 +20,7 @@ class AboutMe(APIView):
                        'Linkedin': 'henri-dev',
                        'Discord': 'ShadowCompiler#2596',
                        'Mail':'pariso03henri@gmail.com',}}
-        return Response(shadowcompiler, status=status.HTTP_200_OK)
+        return Response(ptahemdjehuty, status=status.HTTP_200_OK)
 
 ```                    
 
