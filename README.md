@@ -17,12 +17,10 @@ class AboutMe(APIView):
                        "architectures": ["MVC", "MVT", "REST", "PWA", "SPA"]
                      },
 
-            "Roles": ["freelance web and mobile developer", "Blogger", "Teacher", "Mentor"],
-            "AskMe": ['DIY', 'Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
+            "Roles": ["freelance web and mobile developer", "Content creator", "Teacher", "Mentor"],
+            "AskMe": ['DIY', 'Food', 'Africa', 'Science', 'Comics', 'Photography', 'Tech', 'Programming'],
             "Contacts": {
                            'Telegram': 'ptahemdjehuty',
-                           'Linkedin': 'henri-dev',
-                           'Discord': 'ShadowCompiler#2596',
                            'Mail':'pariso03henri@gmail.com',
                         }
          }
