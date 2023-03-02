@@ -9,17 +9,23 @@ class AboutMe(APIView):
     def get(self, request):
 
         ptahemdjehuty = {
-        "fullName": "Salaou-Deen Henri-Joël Abiodoun PARAISO",
-        "stack": { "languages": ['Python', 'Php', 'JS', 'Kotlin'],
-                   "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'React'],
-                   "databases": ['Mysql', 'Postgresql', 'Sqlite'],
-                   "architectures": ["MVC", "MVT", "REST", "PWA", "SPA"]},        
-        "roles": ["Web & Mobile dev as freelance", "Blogger", "Founder at @henrid3v", "Mentor"],
-        "askMe": ['Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
-        "contacts": { 'Telegram': 'imsadi',
-                       'Linkedin': 'henri-dev',
-                       'Discord': 'ShadowCompiler#2596',
-                       'Mail':'pariso03henri@gmail.com',}}
+            "Name": "Abiodoun PARAISO",
+            "Stack": {
+                       "languages": ['Python', 'Php', 'JS', 'Kotlin'],
+                       "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'React', 'Kotlin'],
+                       "databases": ['Mysql', 'Postgresql', 'Sqlite'],
+                       "architectures": ["MVC", "MVT", "REST", "PWA", "SPA"]
+                     },
+
+            "Roles": ["freelance web and mobile developer", "Blogger", "Teacher", "Mentor"],
+            "AskMe": ['DIY', 'Food', 'Manga', 'Science', 'Comics', 'NaturalHair', 'Photography', 'Tech', 'Programming'],
+            "Contacts": {
+                           'Telegram': 'ptahemdjehuty',
+                           'Linkedin': 'henri-dev',
+                           'Discord': 'ShadowCompiler#2596',
+                           'Mail':'pariso03henri@gmail.com',
+                        }
+         }
         return Response(ptahemdjehuty, status=status.HTTP_200_OK)
 
 ```                    
