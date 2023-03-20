@@ -74,18 +74,16 @@ Sunday       56 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-JavaScript               2 hrs 55 mins       ███████████████████████░░   94.98% 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-3d_sample                3 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,5 +104,5 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ptahemdjehuty/ptahemdjehuty/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/03/2023 18:38:57 UTC
+ Last Updated on 20/03/2023 18:41:37 UTC
 <!--END_SECTION:waka-->
