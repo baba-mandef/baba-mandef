@@ -9,17 +9,17 @@ class AboutMe(APIView):
     def get(self, request):
 
         ptahemdjehuty = {
-            "Name": "Abiodoun PARAISO",
-            "Stack": {
-                       "languages": ['Python', 'Php', 'JS', 'Kotlin'],
-                       "tools": ['Django', 'DRF', 'VueJS', 'NuxtJS', 'React', 'Kotlin'],
-                       "databases": ['Mysql', 'Postgresql', 'Sqlite'],
-                       "architectures": ["MVC", "MVT", "REST", "PWA", "SPA"]
+            'Name': 'Abiodoun PARAISO',
+            'Stack': {
+                       'languages': ['Python', 'Php', 'JS', 'Kotlin'],
+                       'tools': ['Django', 'DRF', 'VueJS', 'NuxtJS', 'Threejs' 'React', 'Kotlin', 'Electron'],
+                       'databases': ['Mysql', 'Postgresql', 'Sqlite'],
+                       'architectures': ['MVC', 'MVT', 'REST', 'PWA', 'SPA', 'MicroServices']
                      },
 
-            "Roles": ["freelance web and mobile developer", "Content creator", "Teacher", "Mentor"],
-            "AskMe": ['DIY', 'Food', 'Africa', 'Science', 'Comics', 'Photography', 'Tech', 'Programming'],
-            "Contacts": {
+            'Roles': ['freelance web and mobile developer', 'Content creator', 'Teacher', 'Mentor'],
+            'AskMe': ['DIY', 'Food', 'Africa', 'Science', 'Comics', 'Photography', 'Tech', 'Programming'],
+            'Contacts': {
                            'Telegram': 'ptahemdjehuty',
                            'Mail':'pariso03henri@gmail.com',
                         }
