@@ -29,7 +29,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -111,5 +111,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ptahemdjehuty/ptahemdjehuty/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2023 18:37:01 UTC
+ Last Updated on 26/03/2023 18:37:28 UTC
 <!--END_SECTION:waka-->
