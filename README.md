@@ -8,7 +8,7 @@ class AboutMe(APIView):
 
     def get(self, request):
 
-        ptahemdjehuty = {
+        baba_mandef = {
             'Name': 'Abiodoun PARAISO',
             'Stack': {
                        'languages': ['Python', 'Php', 'JS', 'Kotlin'],
