@@ -20,8 +20,8 @@ class AboutMe(APIView):
             'Roles': ['freelance web and mobile developer', 'Content creator', 'Teacher', 'Mentor'],
             'AskMe': ['DIY', 'Food', 'Africa', 'Science', 'Comics', 'Photography', 'Tech', 'Programming'],
             'Contacts': {
-                           'Telegram': 'ptahemdjehuty',
-                           'Mail':'pariso03henri@gmail.com',
+                           'Telegram': 'baba_mandef',
+                           'Mail':'contact@abiodoun.dev',
                         }
          }
         return Response(ptahemdjehuty, status=status.HTTP_200_OK)
