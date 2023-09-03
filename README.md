@@ -24,7 +24,7 @@ class AboutMe(APIView):
                            'Mail':'contact@abiodoun.dev',
                         }
          }
-        return Response(ptahemdjehuty, status=status.HTTP_200_OK)
+        return Response(baba_mandef, status=status.HTTP_200_OK)
 
 ```                    
 
