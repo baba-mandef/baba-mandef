@@ -29,7 +29,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -37,7 +37,7 @@ class AboutMe(APIView):
 
 > 🏆 602 Contributions in the Year 2023
  > 
-> 📦 98.6 kB Used in GitHub's Storage 
+> 📦 98.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -73,5 +73,5 @@ Linux                    32 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 13/11/2023 18:34:44 UTC
+ Last Updated on 14/11/2023 18:33:42 UTC
 <!--END_SECTION:waka-->
