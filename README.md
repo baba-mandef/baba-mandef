@@ -37,7 +37,7 @@ class AboutMe(APIView):
 
 > 🏆 604 Contributions in the Year 2023
  > 
-> 📦 98.6 kB Used in GitHub's Storage 
+> 📦 98.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -51,19 +51,23 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   5 mins              █████████░░░░░░░░░░░░░░░░   38.42% 
+JavaScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   28.81% 
+Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+home.korbo.fr            13 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/12/2023 18:33:54 UTC
+ Last Updated on 22/12/2023 18:33:46 UTC
 <!--END_SECTION:waka-->
