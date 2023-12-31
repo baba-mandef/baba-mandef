@@ -35,7 +35,7 @@ class AboutMe(APIView):
 
 **🐱 My GitHub Data** 
 
-> 🏆 604 Contributions in the Year 2023
+> 🏆 606 Contributions in the Year 2023
  > 
 > 📦 98.7 kB Used in GitHub's Storage 
  > 
@@ -51,19 +51,19 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Vue.js                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-home.korbo.fr            0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/12/2023 18:33:25 UTC
+ Last Updated on 31/12/2023 18:33:30 UTC
 <!--END_SECTION:waka-->
