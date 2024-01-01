@@ -35,8 +35,6 @@ class AboutMe(APIView):
 
 **🐱 My GitHub Data** 
 
-> 🏆 606 Contributions in the Year 2023
- > 
 > 📦 98.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -65,5 +63,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2023 18:33:30 UTC
+ Last Updated on 01/01/2024 18:34:14 UTC
 <!--END_SECTION:waka-->
