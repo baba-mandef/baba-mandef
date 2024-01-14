@@ -31,19 +31,19 @@ class AboutMe(APIView):
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
-> 📦 98.7 kB Used in GitHub's Storage 
+> 📦 37.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -65,5 +65,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/01/2024 18:33:53 UTC
+ Last Updated on 14/01/2024 18:33:30 UTC
 <!--END_SECTION:waka-->
