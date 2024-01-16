@@ -35,6 +35,8 @@ class AboutMe(APIView):
 
 **🐱 My GitHub Data** 
 
+> 🏆 2 Contributions in the Year 2024
+ > 
 > 📦 36.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -63,5 +65,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/01/2024 18:34:46 UTC
+ Last Updated on 16/01/2024 18:35:02 UTC
 <!--END_SECTION:waka-->
