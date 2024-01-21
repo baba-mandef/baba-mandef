@@ -29,7 +29,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -70,5 +70,5 @@ Linux                    47 mins             ███████████�
 ```
 
 
- Last Updated on 20/01/2024 18:33:21 UTC
+ Last Updated on 21/01/2024 18:34:41 UTC
 <!--END_SECTION:waka-->
