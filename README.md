@@ -29,9 +29,9 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,8 +51,8 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Python                   12 mins             ███████████████░░░░░░░░░░   61.43% 
-Other                    7 mins              █████████░░░░░░░░░░░░░░░░   38.57%
+Python                   12 mins             ███████████████░░░░░░░░░░   61.66% 
+Other                    7 mins              █████████░░░░░░░░░░░░░░░░   38.34%
 
 🔥 Editors: 
 VS Code                  20 mins             █████████████████████████   100.0%
@@ -66,5 +66,5 @@ Linux                    20 mins             ███████████�
 ```
 
 
- Last Updated on 27/01/2024 18:33:19 UTC
+ Last Updated on 28/01/2024 18:33:29 UTC
 <!--END_SECTION:waka-->
