@@ -35,7 +35,7 @@ class AboutMe(APIView):
 
 **🐱 My GitHub Data** 
 
-> 🏆 86 Contributions in the Year 2024
+> 🏆 87 Contributions in the Year 2024
  > 
 > 📦 36.6 kB Used in GitHub's Storage 
  > 
@@ -45,17 +45,6 @@ class AboutMe(APIView):
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    149 commits    ███████░░░░░░░░░░░░░░░░░░   29.33% 
-🌆 Daytime    223 commits    ███████████░░░░░░░░░░░░░░   43.9% 
-🌃 Evening    94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-🌙 Night      42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -80,5 +69,5 @@ Linux                    17 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 18/02/2024 08:31:15 UTC
+ Last Updated on 18/02/2024 08:33:42 UTC
 <!--END_SECTION:waka-->
