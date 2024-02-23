@@ -29,22 +29,10 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 87 Contributions in the Year 2024
- > 
-> 📦 36.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,5 +54,5 @@ Linux                    11 hrs 12 mins      ███████████�
 ```
 
 
- Last Updated on 23/02/2024 18:33:50 UTC
+ Last Updated on 23/02/2024 22:24:02 UTC
 <!--END_SECTION:waka-->
