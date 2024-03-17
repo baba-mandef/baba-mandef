@@ -39,19 +39,19 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Dart                     12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ishiro                   12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/03/2024 18:40:02 UTC
+ Last Updated on 17/03/2024 18:37:59 UTC
 <!--END_SECTION:waka-->
