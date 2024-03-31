@@ -11,14 +11,14 @@ class AboutMe(APIView):
         baba_mandef = {
             'Name': 'Abiodoun PARAISO',
             'Stack': {
-                       'languages': ['Python', 'Php', 'JS', 'Kotlin'],
-                       'tools': ['Django', 'VueJS', 'React', 'Jetpack Compose'],
+                       'languages': ['Python', 'Php', 'JS', 'Dart'],
+                       'tools': ['Django', 'Nuxt2', 'React', ''NextJS', 'Flutter'],
                        'databases': ['Mysql', 'Postgresql', 'Sqlite'],
                        'architectures': ['MVC', 'MVT', 'REST', 'PWA', 'SPA', 'MicroServices']
                      },
 
             'Roles': ['freelance web and mobile developer', 'Content creator', 'Teacher', 'Mentor'],
-            'AskMe': ['DIY', 'Food', 'Africa', 'Science', 'Comics', 'Photography', 'Tech', 'Programming'],
+            'AskMe': ['DIY', 'Food', 'Africa', 'Science', 'Comics', 'Photography', 'Tech', 'Programming', 'Mechatronics'],
             'Contacts': {
                            'Telegram': 'baba_mandef',
                            'Mail':'contact@abiodoun.dev',
