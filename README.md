@@ -12,7 +12,7 @@ class AboutMe(APIView):
             'Name': 'Abiodoun PARAISO',
             'Stack': {
                        'languages': ['Python', 'Php', 'JS', 'Dart'],
-                       'tools': ['Django', 'Nuxt2', 'React', ''NextJS', 'Flutter'],
+                       'tools': ['Django', 'Nuxt2', 'React', 'NextJS', 'Flutter'],
                        'databases': ['Mysql', 'Postgresql', 'Sqlite'],
                        'architectures': ['MVC', 'MVT', 'REST', 'PWA', 'SPA', 'MicroServices']
                      },
