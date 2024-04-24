@@ -39,22 +39,19 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Dart                     1 hr 20 mins        ████████████████████████░   97.77% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ishiro                   1 hr 21 mins        █████████████████████████   99.99% 
-api.ishiro.com           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/04/2024 18:38:22 UTC
+ Last Updated on 24/04/2024 18:39:56 UTC
 <!--END_SECTION:waka-->
