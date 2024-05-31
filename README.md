@@ -39,21 +39,19 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        ██████████████████░░░░░░░   73.45% 
-CSS                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   26.22% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rezolusoft.com           1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/05/2024 18:45:48 UTC
+ Last Updated on 31/05/2024 18:41:08 UTC
 <!--END_SECTION:waka-->
