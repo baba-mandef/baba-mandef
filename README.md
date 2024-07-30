@@ -39,19 +39,20 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   12 mins             █████████████████████░░░░   84.69% 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.31%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/07/2024 18:44:03 UTC
+ Last Updated on 30/07/2024 18:44:10 UTC
 <!--END_SECTION:waka-->
