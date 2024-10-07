@@ -39,20 +39,19 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Python                   2 mins              ████████████████████████░   99.32% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-api.abiodoun.dev         2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/10/2024 18:45:20 UTC
+ Last Updated on 07/10/2024 18:47:42 UTC
 <!--END_SECTION:waka-->
