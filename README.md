@@ -11,17 +11,18 @@ class AboutMe(APIView):
         baba_mandef = {
             'Name': 'Abiodoun PARAISO',
             'Stack': {
-                       'languages': ['Python', 'JS', 'Dart'],
-                       'tools': ['Django', 'React', 'Flutter'],
+                       'languages': ['Python', 'JS', 'Dart', 'PHP', 'Yoruba', 'Kreyol', 'French', 'English'],
+                       'tools': ['Django', 'React', 'Flutter', 'GIMP', 'Inckscape', 'Kdenlive', 'Blender'],
                        'databases': ['Mysql', 'Postgresql', 'Sqlite'],
                        'architectures': ['MVC', 'MVT', 'REST', 'PWA', 'SPA', 'MicroServices']
                      },
 
-            'Roles': ['Web developer', 'Content Creator', 'Teacher', 'Mentor'],
-            'AskMe': ['DIY',  'Africa', 'Science', 'Photo & Video', 'Tech'],
+            'Roles': ['Software Engineer', 'Video & 3D Artist', 'Teacher', 'Mentor', 'Farmer'],
+            'AskMe': ['DIY',  'Africa', 'Science', 'Photo & Video', 'Tech', 'Agro'],
             'Contacts': {
                            'Telegram': 'baba_mandef',
-                           'Mail':'contact@abiodoun.dev',
+                           'youtube': 'baba-mandef'
+                           'Mail': 'contact@abiodoun.dev',
                         }
          }
         return Response(baba_mandef, status=status.HTTP_200_OK)
