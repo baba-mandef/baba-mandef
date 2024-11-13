@@ -21,7 +21,7 @@ class AboutMe(APIView):
             'AskMe': ['DIY',  'Africa', 'Science', 'Photo & Video', 'Tech', 'Agro'],
             'Contacts': {
                            'Telegram': 'baba_mandef',
-                           'youtube': 'baba-mandef'
+                           'Youtube': 'baba-mandef'
                            'Mail': 'contact@abiodoun.dev',
                         }
          }
