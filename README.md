@@ -9,17 +9,17 @@ class AboutMe(APIView):
     def get(self, request):
 
         baba_mandef = {
-            'Name': 'Abiodoun PARAISO',
-            'Stack': {
+            'name': 'Abiodoun PARAISO',
+            'stack': {
                        'languages': ['Python', 'JS', 'Dart', 'PHP', 'Yoruba', 'Fongbe', 'Kreyol', 'French', 'English'],
                        'tools': ['Django', 'React', 'Flutter', 'Figma', 'GIMP', 'Inckscape', 'Kdenlive', 'Blender'],
                        'databases': ['Mysql', 'Postgresql', 'Sqlite'],
                        'architectures': ['MVC', 'MVT', 'REST', 'PWA', 'SPA', 'MicroServices']
                      },
 
-            'Roles': ['Software Engineer', 'Video & 3D Artist', 'Teacher', 'Mentor', 'Farmer'],
-            'AskMe': ['DIY',  'Africa', 'Science', 'Photo & Video', 'Tech', 'Agro'],
-            'Contacts': {
+            'roles': ['Software Engineer', 'Video & 3D Artist', 'Teacher', 'Mentor', 'Farmer'],
+            'askme': ['DIY',  'Africa', 'Science', 'Photo & Video', 'Tech', 'Agro'],
+            'contact': {
                            'Telegram': 'baba_mandef',
                            'Youtube': 'baba-mandef'
                            'Mail': 'contact@abiodoun.dev',
