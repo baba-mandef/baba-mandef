@@ -30,32 +30,9 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-424%20Thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: UTC
-
-💬 Programming Languages: 
-Python                   12 hrs 15 mins      ████████████████░░░░░░░░░   64.42% 
-HTML                     5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.04% 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
-
-🔥 Editors: 
-VS Code                  19 hrs 2 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-ekilibre                 19 hrs 2 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    19 hrs 2 mins       █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in Python** 
 
@@ -70,5 +47,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2024 19:51:54 UTC
+ Last Updated on 07/12/2024 18:48:16 UTC
 <!--END_SECTION:waka-->
