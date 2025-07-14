@@ -11,8 +11,8 @@ class AboutMe(APIView):
         baba_mandef = {
             'name': 'Abiodoun PARAISO',
             'stack': {
-                       'languages': ['Python', 'JS', 'Dart', 'PHP', 'Yoruba', 'Fongbe', 'Kreyol', 'French', 'English'],
-                       'tools': ['Django', 'React', 'Flutter', 'Figma', 'GIMP', 'Inckscape', 'Kdenlive', 'Blender'],
+                       'languages': ['Python', 'JS', 'PHP', 'Yoruba', 'Fongbe', 'Kreyol', 'English', 'French'],
+                       'tools': ['Django', 'React', 'Flet', 'Figma', 'GIMP', 'Inckscape', 'Kdenlive', 'Blender'],
                        'databases': ['Mysql', 'Postgresql', 'Sqlite'],
                        'architectures': ['MVC', 'MVT', 'REST', 'PWA', 'SPA', 'MicroServices']
                      },
