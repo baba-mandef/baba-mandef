@@ -30,7 +30,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,16 +40,19 @@ class AboutMe(APIView):
 ⌚︎ Time Zone: Africa/Porto-Novo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     14 mins             █████████████████░░░░░░░░   68.65% 
+Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/07/2025 18:52:25 UTC
+ Last Updated on 25/07/2025 18:52:05 UTC
 <!--END_SECTION:waka-->
