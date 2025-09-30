@@ -30,7 +30,7 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,5 +58,5 @@ Mac                      1 hr 37 mins        ███████████�
 ```
 
 
- Last Updated on 29/09/2025 18:45:50 UTC
+ Last Updated on 30/09/2025 18:44:44 UTC
 <!--END_SECTION:waka-->
