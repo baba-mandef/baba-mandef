@@ -30,27 +30,13 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C982%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Porto-Novo
-
-💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.0%
-
-🔥 Editors: 
-GIMP                     2 mins              ███████████████████████░░   93.76% 
-Terminal                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.24%
-
-💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.0%
-
+```txt
+HTML          7 hrs 3 mins          ██████████▓░░░░░░░░░░░░░░   42.59 %
+Python        4 hrs 31 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
+Other         4 hrs 25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+Git Config    20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Text          6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
-
- Last Updated on 07/02/2026 18:58:43 UTC
 <!--END_SECTION:waka-->
