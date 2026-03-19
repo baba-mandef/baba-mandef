@@ -32,11 +32,11 @@ class AboutMe(APIView):
 <!--START_SECTION:waka-->
 
 ```txt
-HTML          4 hrs 52 mins         ██████████▓░░░░░░░░░░░░░░   42.40 %
-Other         3 hrs 15 mins         ███████░░░░░░░░░░░░░░░░░░   28.33 %
-Python        2 hrs 56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Git Config    20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Text          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+HTML          4 hrs 21 mins         ████████▓░░░░░░░░░░░░░░░░   35.29 %
+Other         3 hrs 40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+Python        3 hrs 2 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
+Image (svg)   1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Git Config    4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
