@@ -30,81 +30,46 @@ class AboutMe(APIView):
 ```                    
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C054%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20%27Hello%20World%27%20I%27ve%20written-471%20Thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.97%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 🏆 102 Contributions in the year 2026
+> 📦 181.7 kB Used in GitHub's Storage 
  > 
-> 📦 178.8 kB Used in GitHub's storage 
+> 🏆 458 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 6 Private repositories  
+> 🔑 6 Private Repositories 
  > 
-**I'm an early 🐤** 
+📊 **This Week I Spent My Time On** 
+
+🕑︎ Time Zone: Africa/Porto-Novo
+
+💬 Programming Languages: 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">1 hr 19 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="168" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">46.72%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">JavaScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">49 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="103" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">28.71%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">22 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="48" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">13.44%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Image (svg)</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">13 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="29" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">8.18%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">3 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="8" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">2.33%</text></svg>
+
+🔥 Editors: 
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 13 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="282" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">78.39%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Terminal</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="34" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">9.45%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Figma</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">13 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="29" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">8.18%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Notion</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">6 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="14" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">3.98%</text></svg>
+
+💻 Operating System: 
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Mac</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 50 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+
+
+🤖 **AI Coding This Week** 
 
 ```text
-🌞 Morning    262 commits    ██████░░░░░░░░░░░░░░░░░░░   25.69% 
-🌆 Daytime    270 commits    ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-🌃 Evening    373 commits    █████████░░░░░░░░░░░░░░░░   36.57% 
-🌙 Night      115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
-
-```
-📅 **I'm most productive on Tuesday** 
-
-```text
-Monday       207 commits    █████░░░░░░░░░░░░░░░░░░░░   20.29% 
-Tuesday      227 commits    █████░░░░░░░░░░░░░░░░░░░░   22.25% 
-Wednesday    167 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
-Thursday     86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-Friday       113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Saturday     95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
-Sunday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25%
-
+No AI Coding Activity Tracked This Week
 ```
 
 
-```text
-⌚︎ Time Zone: Africa/Porto-Novo
-
-💬 Programming languages: 
-Python                   9 hrs 41 mins       ████████████████░░░░░░░░░   67.12% 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Image (svg)              1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.06% 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-TOML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
-
-📝 Editors: 
-VS Code                  11 hrs 47 mins      ████████████████████░░░░░   81.72% 
-Figma                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.06% 
-GIMP                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-Notion                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-GitHubDesktop            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
-
-💻 Operating systems: 
-Mac                      14 hrs 26 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   29.09% 
-CSS                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-PHP                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-
- *Updated on 29/03/2026 19:15:43 UTC*
+ Last Updated on 09/10/2026 22:04:10 UTC
 <!--END_SECTION:waka-->
